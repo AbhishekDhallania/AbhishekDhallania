@@ -14,7 +14,6 @@
 ✨ Passionate about building full-stack applications and solving real-world problems.<br>
 📚 Currently diving deeper into advanced React patterns, Redux Toolkit, and TypeScript for backend development.<br>
 🎯 Goals: To create scalable, high-performance web applications and keep learning cutting-edge web technologies.<br>
-🎲 Fun fact: I once built a full-stack Gist app connecting React frontend with Express + MongoDB backend with real-time features using Socket.IO.
 </p>
 
 ###
